@@ -7,3 +7,7 @@ A Place where info can free flow: lists of useful links, how-to's and experiment
 - Antirez is working on a way to use LLMs on cheaper hardware: https://github.com/antirez/ds4
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Conventional Branch](https://conventionalbranch.org/)
+- [The Pragmatic Programmer](https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf)
+- https://agilemanifesto.org/
+- https://scrumguides.org/download.html
+- https://refactoring.guru/
